@@ -1,0 +1,114 @@
+[
+	{
+		"name": "businessOptimization",
+		"workloadManagement": [
+			"afa4e4d5-0a51-4e26-b6e7-4ee4fb976cd6",
+			"92c67f83-7ad6-4da5-a72f-e68a8f32a07a",
+			"7f9d71bb-e527-4a39-bfc6-1425409c60e1",
+			"4b0589e5-3d7a-41f9-9699-1ee12e4504db"
+		],
+		"analytics": [
+			"b5df6d7b-af99-493c-a169-cf81f7681fb2",
+			"60c09ee9-ca7e-49dd-b252-f8647caeaf2c",
+			"1f3df1a1-1aae-4439-b235-376062fc0b14",
+			"438a8331-c727-4ba7-8d8b-1496dee5b4ae"
+		],
+		"platformIntegration": [
+			"5b9847b0-0d34-445d-9f9b-c1c0e7fbef71",
+			"099a9667-b7fb-4f8c-9e95-5f95efd29926",
+			"5fec4331-693d-4159-8034-aeb170865f87",
+			"14d64093-c27c-4221-9c5a-ed517416d13f",
+			"934144d9-7ef5-4904-81b5-8b9ddfb684a8",
+			"f0fced4a-36a6-44cc-9e6b-aada3fb1e407",
+			"7decc574-5ccb-43a3-8216-dfa8d392c1f5",
+			"1864b462-2fa6-4a68-8d94-0301dc623288",
+			"ae58936e-252d-4dae-a776-4f564c9775c4",
+			"28895253-eb3b-4743-a0f9-a3ba430a6e2f",
+			"c1cff853-fc8b-4b4a-bf05-0d5423fdb056",
+			"2e1249f4-f9e6-4342-97ac-6d2349bc1833",
+			"d6260839-f6d9-4a54-b3e2-724e06274404",
+			"fc888f2d-aff2-40a8-8c46-8acade3fc5dd",
+			"64f6d8bc-6170-488b-b030-6b176734d0f1",
+			"9e75cf53-c84f-44c2-acb5-d412a1fe5055",
+			"723ba66e-ca37-4624-a5e1-08ab25aa4035",
+			"b34c7dda-95ca-4f52-a0da-1b233e109742",
+			"d1426cd8-9dc0-4f78-bece-e671e2981590",
+			"3f77af03-5fe6-4165-8ea7-d563e1fddeb2",
+			"96044ec9-9950-461d-8d41-768384370ef9",
+			"06df060c-f36b-4c2a-8c52-562552f23376",
+			"14db3af5-e2da-4cda-8754-0a7dea54de22",
+			"d6e7c43c-60a8-47a6-91b2-e30f11ed5a05",
+			"6d06e594-8255-4d97-9f12-90b5803b2b03",
+			"28f860ac-43b8-40c3-bd21-19f15ac5117e",
+			"96fa6516-3bcf-4f4a-9473-7d8a6cc09862",
+			"9f550cf6-71fa-4254-98b9-c49808b29fe8",
+			"0fc0ba17-a7f3-4287-a0b2-ba0e7307b2b6",
+			"50f8198d-21d7-414f-ad0a-c452de56b89d",
+			"438a8331-c727-4ba7-8d8b-1496dee5b4ae",
+			"60c09ee9-ca7e-49dd-b252-f8647caeaf2c"
+		],
+		"platformEnhancement": [
+			"92c67f83-7ad6-4da5-a72f-e68a8f32a07a",
+			"b5df6d7b-af99-493c-a169-cf81f7681fb2",
+			"4b0589e5-3d7a-41f9-9699-1ee12e4504db",
+			"933c1db5-bee4-4c4e-8ec3-2e61c1cfeb0b",
+			"abca96f2-467c-4717-a8a1-55e2c82125c0",
+			"7cc998f9-934a-45d9-ba86-164d26900289"
+		]
+	},
+	{
+		"name": "customerEngagement",
+		"digital": [
+			"933c1db5-bee4-4c4e-8ec3-2e61c1cfeb0b"
+		],
+		"selfService": [
+			"933c1db5-bee4-4c4e-8ec3-2e61c1cfeb0b",
+			"abca96f2-467c-4717-a8a1-55e2c82125c0",
+			"96044ec9-9950-461d-8d41-768384370ef9",
+			"06df060c-f36b-4c2a-8c52-562552f23376",
+			"14db3af5-e2da-4cda-8754-0a7dea54de22",
+			"d6e7c43c-60a8-47a6-91b2-e30f11ed5a05",
+			"6d06e594-8255-4d97-9f12-90b5803b2b03",
+			"28f860ac-43b8-40c3-bd21-19f15ac5117e",
+			"96fa6516-3bcf-4f4a-9473-7d8a6cc09862",
+			"9f550cf6-71fa-4254-98b9-c49808b29fe8",
+			"0fc0ba17-a7f3-4287-a0b2-ba0e7307b2b6",
+			"50f8198d-21d7-414f-ad0a-c452de56b89d"
+		],
+		"outbound": [
+			"4b0589e5-3d7a-41f9-9699-1ee12e4504db"
+		],
+		"artificialIntelligence": [
+			"933c1db5-bee4-4c4e-8ec3-2e61c1cfeb0b"
+		]
+	},
+	{
+		"name": "employeeEngagement",
+		"workforceOptimization": [
+			"92c67f83-7ad6-4da5-a72f-e68a8f32a07a",
+			"afa4e4d5-0a51-4e26-b6e7-4ee4fb976cd6",
+			"2530aa5b-4cd4-4122-80c4-3dd4dc08d3e1",
+			"0be859e5-1774-48fa-ac5f-1c9f142013f8",
+			"09a83a9c-b19d-4719-a575-8bd4e1b191ba",
+			"7f9d71bb-e527-4a39-bfc6-1425409c60e1"
+		],
+		"omniChannel": [
+			"23dd2b8c-cf80-429b-86c0-6a0282fab9aa",
+			"4b0589e5-3d7a-41f9-9699-1ee12e4504db"
+		],
+		"collaboration": [
+			"5b9847b0-0d34-445d-9f9b-c1c0e7fbef71",
+			"099a9667-b7fb-4f8c-9e95-5f95efd29926",
+			"5fec4331-693d-4159-8034-aeb170865f87",
+			"f0fced4a-36a6-44cc-9e6b-aada3fb1e407",
+			"7decc574-5ccb-43a3-8216-dfa8d392c1f5",
+			"1864b462-2fa6-4a68-8d94-0301dc623288",
+			"ae58936e-252d-4dae-a776-4f564c9775c4",
+			"28895253-eb3b-4743-a0f9-a3ba430a6e2f",
+			"c1cff853-fc8b-4b4a-bf05-0d5423fdb056",
+			"2e1249f4-f9e6-4342-97ac-6d2349bc1833",
+			"d6260839-f6d9-4a54-b3e2-724e06274404"
+		],
+		"knowledgeManagement": []
+	}
+]

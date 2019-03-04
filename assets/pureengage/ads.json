@@ -1,0 +1,10 @@
+{
+    "featured": {
+        "url": "https://www.genesys.com",
+        "img": "jabra-web-banner.jpg"
+    },
+    "sidebar": {
+        "url": "http://www.genesys.com",
+        "img": "optimizely-ad.png"
+    }
+}

@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "96fa6516-3bcf-4f4a-9473-7d8a6cc09862",
+    "registryId": {
+      "us-east-1": "microsoft-dynamics-data-actions",
+      "eu-west-1": "microsoft-dynamics-data-actions",
+      "ap-southeast-1": "microsoft-dynamics-data-actions",
+      "ap-northeast-1": "microsoft-dynamics-data-actions"
+    },
+    "name": {
+      "en-us": "Microsoft Dynamics Data Actions"
+    },
+    "tagline": {
+      "en-us": "Static and custom data actions with Microsoft Dynamics"
+    },
+    "briefDescription": {
+      "en-us": "The Microsoft Dynamics 365 data actions integration provides static actions and allows you to create custom actions that you can use to act on data in Microsoft Dynamics 365."
+    },
+    "fullDescription": {
+      "en-us": "The Microsoft Dynamics 365 data actions integration provides static actions and allows you to create custom actions that you can use to act on data in Microsoft Dynamics 365. You can use these data actions to make routing decisions within your interaction flow in Architect, to present information to your agents in Scripts, or to act on data in other ways.\n\n**Static data types:**\n\n- Get Account By Account Id\n\n- Get Account By Account Name\n\n- Get Account By Account Number\n\n- Get Account By Contact Id\n\n- Get Account By Phone Number\n\n- Get Case By Case Id\n\n- Get Contact By Contact Name\n\n- Get Contact By Email Address\n\n- Get Contact By Phone Number\n\n- Get Most Recent Open Case By Contact Id\n\n **Custom data types**\n\nCustom actions interact with data from Microsoft Dynamics 365 through request and response schemas that you define. With custom actions, you can retrieve, update, or create any data."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-dynamics/images/ms-dynamics.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-dynamics/images/ms-dynamics.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/about-microsoft-dynamics-365-data-actions-integration/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-dynamics/images/data-action-workflow.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-dynamics/images/actions-setup-test1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-dynamics/images/actions-setup-test2.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "9f550cf6-71fa-4254-98b9-c49808b29fe8",
+    "registryId": {
+      "us-east-1": "purecloud-data-actions",
+      "eu-west-1": "purecloud-data-actions",
+      "ap-southeast-1": "purecloud-data-actions",
+      "ap-northeast-1": "purecloud-data-actions"
+    },
+    "name": {
+      "en-us": "PureCloud Data Actions"
+    },
+    "tagline": {
+      "en-us": "Static and custom data actions for PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "The PureCloud data actions integration provides static actions and allows you to create custom actions that use the Platform API."
+    },
+    "fullDescription": {
+      "en-us": "The PureCloud data actions integration provides static actions and allows you to create custom actions that use the Platform API. You can use these data actions to make routing decisions within your interaction flow in Architect, to present information to your agents in Scripts, or to act on data in other ways.\n\n The PureCloud data actions integration uses a PureCloud OAuth client to authorize access to the Platform API.\n\n**Action Types\n\n- Get Estimated Wait Time\n\n- Get PureCloud User Presence\n\n- Get PureCloud User Routing Status\n\n**Custom Actions**\n\nCustom actions interact with data from the Platform API through request and response schemas that you define. With custom actions, you can retrieve, update, or create any data."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-purecloud/images/purecloud-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-purecloud/images/purecloud-logo.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/about-purecloud-data-actions-integration/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-purecloud/images/data-action-workflow.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-purecloud/images/actions-setup-test1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-purecloud/images/actions-setup-test2.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "0fc0ba17-a7f3-4287-a0b2-ba0e7307b2b6",
+    "registryId": {
+      "us-east-1": "salesforce-datadip",
+      "eu-west-1": "salesforce-datadip",
+      "ap-southeast-1": "salesforce-datadip",
+      "ap-northeast-1": "salesforce-datadip"
+    },
+    "name": {
+      "en-us": "Salesforce Data Actions"
+    },
+    "tagline": {
+      "en-us": "Static and custom data actions for Salesforce"
+    },
+    "briefDescription": {
+      "en-us": "The Salesforce data actions integration provides static actions and allows you to create custom actions that you can use throughout PureCloud to act on data in Salesforce."
+    },
+    "fullDescription": {
+      "en-us": "The Salesforce data actions integration provides static actions and allows you to create custom actions that you can use throughout PureCloud to act on data in Salesforce. You can use these data actions to make routing decisions within your interaction flow in Architect, to present information to your agents in Scripts, or to act on data in other ways.\n\n**Static data types:**\n\n- Get Account By Account Number\n\n- Get Account By Contact ID\n\n- Get Account By Phone Number\n\n- Get Account By Email\n\n- Get Account By Phone Number\n\n- Get Most Recent Open Case By Contact Id\n\n **Custom Actions**\n\nCustom actions interact with data from Salesforce through request and response schemas that you define. With custom actions, you can retrieve, update, or create any data."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-salesforce/images/salesforcelogo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-salesforce/images/salesforcelogo.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/about-salesforce-data-actions-integration/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-salesforce/images/data-action-workflow.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-salesforce/images/actions-setup-test1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-salesforce/images/actions-setup-test2.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "50f8198d-21d7-414f-ad0a-c452de56b89d",
+    "registryId": {
+      "us-east-1": "zendesk-data-actions",
+      "eu-west-1": "zendesk-data-actions",
+      "ap-southeast-1": "zendesk-data-actions",
+      "ap-northeast-1": "zendesk-data-actions"
+    },
+    "name": {
+      "en-us": "Zendesk Data Actions"
+    },
+    "tagline": {
+      "en-us": "Static and custom data actions for Zendesk"
+    },
+    "briefDescription": {
+      "en-us": "The Zendesk® data dip connector integrates your interactive voice response (IVR) system with your customer relationship management (CRM) database."
+    },
+    "fullDescription": {
+      "en-us": "The Zendesk® data dip connector integrates your interactive voice response (IVR) system with your customer relationship management (CRM) database. The connector allows your IVR to dip into your CRM to retrieve information about accounts, cases, or contacts. You can then use this information to make routing decisions within your call flow.\n\n**Static data types:**\n\n- Get Account By Account Number\n\n- Get Account By Contact ID\n\n- Get Account By Phone Number\n\n- Get Contact by Phone Number\n\n- Get Most Recent Open Case By Contact Id\n\n**Custom Actions**\n\nCustom actions interact with data from Zendesk through request and response schemas that you define. With custom actions, you can retrieve, update, or create any data."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-zendesk/images/zendesk-medium.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-zendesk/images/zendesk-medium.svg",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/?p=42353"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-zendesk/images/data-action-workflow.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-zendesk/images/actions-setup-test1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/actions-zendesk/images/actions-setup-test2.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "60c09ee9-ca7e-49dd-b252-f8647caeaf2c",
+    "registryId": {},
+    "name": {
+      "en-us": "Analytics Hub"
+    },
+    "tagline": {
+      "en-us": "Push PureCloud Analytics to PowerBI via a Google Chrome Extension"
+    },
+    "briefDescription": {
+      "en-us": "Push PureCloud Analytics to PowerBI via a Google Chrome Extension"
+    },
+    "fullDescription": {
+      "en-us": "This Google Chrome Extension pushes data from PureCloud to PowerBI.  It is easy to setup and deploy between PureCloud and PowerBI to create custom dashboards without any development knowledge."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/community-analytics-hub/images/purecloud-labs.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/community-analytics-hub/images/purecloud-labs.png",
+    "companyName": {
+      "en-us": "PureCloud Labs (Europe)"
+    },
+    "website": {
+      "en-us": "https://developer.mypurecloud.com"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "purecloudEMEApso@genesys.com",
+    "termsOfService": "https://help.mypurecloud.com/articles/terms-and-conditions/",
+    "helpDocumentationURL": {
+      "en-us": "https://github.com/MyPureCloud/analytics-hub"
+    },
+    "marketingURL": {
+      "en-us": "https://github.com/MyPureCloud/analytics-hub"
+    },
+    "licensing": {
+      "model": "",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "934144d9-7ef5-4904-81b5-8b9ddfb684a8",
+    "registryId": {},
+    "name": {
+      "en-us": "Secure Pause for Goggle Chrome"
+    },
+    "tagline": {
+      "en-us": "Trigger a Secure Pause in PureCloud from Google Chrome"
+    },
+    "briefDescription": {
+      "en-us": "Trigger a Secure Pause in PureCloud from Google Chrome"
+    },
+    "fullDescription": {
+      "en-us": "This extension for Google's Chrome browswer will authenicate against PureCloud, then a user is able to use the functionality of  Secure Pause during a recorded call."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/community-secure-pause/images/purecloud-labs.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/community-secure-pause/images/purecloud-labs.png",
+    "companyName": {
+      "en-us": "PureCloud Labs (Europe)"
+    },
+    "website": {
+      "en-us": "https://developer.mypurecloud.com"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "purecloudEMEApso@genesys.com",
+    "termsOfService": "https://help.mypurecloud.com/articles/terms-and-conditions/",
+    "helpDocumentationURL": {
+      "en-us": "https://github.com/MyPureCloud/purecloud-secure-pause"
+    },
+    "marketingURL": {
+      "en-us": "https://github.com/MyPureCloud/purecloud-secure-pause"
+    },
+    "licensing": {
+      "model": "",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "438a8331-c727-4ba7-8d8b-1496dee5b4ae",
+    "registryId": {},
+    "name": {
+      "en-us": "PureCloud Stats Dispatcher"
+    },
+    "tagline": {
+      "en-us": "Exporting your PureCloud analytics"
+    },
+    "briefDescription": {
+      "en-us": "Exporting your PureCloud analytics to CSV and/or Microsoft SQL Server"
+    },
+    "fullDescription": {
+      "en-us": "This Windows console application uses the PureCloud API to export analytics to a 3rd party target (ie: SQL server, Console) and then exits. It pulls all analytics data available from PureCloud for the last 7 days and pushes it to the targets specified on the command line.\n\n*Please note that, at this time, only exports to Microsoft SQL Server and CSV files are supported.*\n\nStatistics include:\n\n- Conversations\n\n- Queue\n\n- Users"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/community-stats-dispatcher/images/purecloud-labs.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/community-stats-dispatcher/images/purecloud-labs.png",
+    "companyName": {
+      "en-us": "PureCloud Labs (Europe)"
+    },
+    "website": {
+      "en-us": "https://developer.mypurecloud.com"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "purecloudEMEApso@genesys.com",
+    "termsOfService": "https://help.mypurecloud.com/articles/terms-and-conditions/",
+    "helpDocumentationURL": {
+      "en-us": "https://github.com/MyPureCloud/purecloud-stats-dispatcher"
+    },
+    "marketingURL": {
+      "en-us": "https://github.com/MyPureCloud/purecloud-stats-dispatcher"
+    },
+    "licensing": {
+      "model": "",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "96044ec9-9950-461d-8d41-768384370ef9",
+    "registryId": {
+      "us-east-1": "bridge-active-directory-connector",
+      "eu-west-1": "bridge-active-directory-connector",
+      "ap-southeast-1": "bridge-active-directory-connector",
+      "ap-northeast-1": "bridge-active-directory-connector"
+    },
+    "name": {
+      "en-us": "Microsoft Active Directory Connector"
+    },
+    "tagline": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory"
+    },
+    "briefDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control."
+    },
+    "fullDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control.  Supported data synchronization for the following:\n\n- Authenticate Bridge Server service account\n\n- Failover support\n\n- Create a person in PureCloud\n\n- Update a person in PureCloud\n\n- Update a person in Active Directory\n\n- Update a photo in PureCloud\n\n- Update a photo in Active Directory\n\n- Delete a person in PureCloud"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-activedirectory/images/microsoft-ad.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-activedirectory/images/microsoft-ad.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/active-directory-connector/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "06df060c-f36b-4c2a-8c52-562552f23376",
+    "registryId": {
+      "us-east-1": "bridge-exchange-connector",
+      "eu-west-1": "bridge-exchange-connector",
+      "ap-southeast-1": "bridge-exchange-connector",
+      "ap-northeast-1": "bridge-exchange-connector"
+    },
+    "name": {
+      "en-us": "Microsoft Exchange Connector"
+    },
+    "tagline": {
+      "en-us": "Synchronizing data between PureCloud and Exchange"
+    },
+    "briefDescription": {
+      "en-us": "Synchronizing data between PureCloud and Exchange.  This connector supports multiple user attributes with directional control."
+    },
+    "fullDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control.  Supported data synchronization for the following:\n\n- Authenticate Bridge Server service account\n\n- Authenticate Bridge Server service account\n\n- Failover support\n\n- Create group in Exchange\n\n- Update group in Exchange\n\n- Delete person in Exchange"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-exchange/images/ms-exchange.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-exchange/images/ms-exchange.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/configure-the-microsoft-exchange-connector/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "14db3af5-e2da-4cda-8754-0a7dea54de22",
+    "registryId": {
+      "us-east-1": "bridge-cic-connector",
+      "eu-west-1": "bridge-cic-connector",
+      "ap-southeast-1": "bridge-cic-connector",
+      "ap-northeast-1": "bridge-cic-connector"
+    },
+    "name": {
+      "en-us": "PureConnect Connector"
+    },
+    "tagline": {
+      "en-us": "Synchronizing data between PureCloud and PureConnect"
+    },
+    "briefDescription": {
+      "en-us": "Synchronizing data between PureCloud and PureConnect.  This connector supports multiple user attributes with directional control."
+    },
+    "fullDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control.  Supported data synchronization for the following:\n\n- Authenticate Bridge Server service account\n\n- Failover support\n\n- Create person in PureCloud\n\n- Update person in PureCloud\n\n- Update person in CIC"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-pureconnect/images/pureconnect.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-pureconnect/images/pureconnect.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/cic-data-connector/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "d6e7c43c-60a8-47a6-91b2-e30f11ed5a05",
+    "registryId": {
+      "us-east-1": "bridge-rest-dynamic-connector",
+      "eu-west-1": "bridge-rest-dynamic-connector",
+      "ap-southeast-1": "bridge-rest-dynamic-connector",
+      "ap-northeast-1": "bridge-rest-dynamic-connector"
+    },
+    "name": {
+      "en-us": "REST Dynamic Connector"
+    },
+    "tagline": {
+      "en-us": "Synchronizing data between PureCloud and external systems using REST"
+    },
+    "briefDescription": {
+      "en-us": "Synchronizing data between PureCloud and external systems using REST.  This connector supports multiple user attributes with directional control."
+    },
+    "fullDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control.  Supported data synchronization for the following:\n\n- Create, update, and delete a person in PureCloud\n\n- Create, update, and delete a person in a REST-enabled customer system"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-rest-dynamic/images/rest-api.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-rest-dynamic/images/rest-api.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/cic-data-connector/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "6d06e594-8255-4d97-9f12-90b5803b2b03",
+    "registryId": {
+      "us-east-1": "bridge-sql-connector",
+      "eu-west-1": "bridge-sql-connector",
+      "ap-southeast-1": "bridge-sql-connector",
+      "ap-northeast-1": "bridge-sql-connector"
+    },
+    "name": {
+      "en-us": "SQL Database Connector"
+    },
+    "tagline": {
+      "en-us": "Synchronizing data between PureCloud and a SQL Database"
+    },
+    "briefDescription": {
+      "en-us": "Synchronizing data between PureCloud and a SQL Database.  This connector supports multiple user attributes with directional control."
+    },
+    "fullDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control.  Supported data synchronization for the following:\n\n- Connector redundancyn\n\n- Create person in PureCloudn\n\n- Create person in SQL database\n\n- Update person in PureCloud\n\n- Update person in SQL database\n\n- Delete person in PureCloud\n\n- Delete person in SQL database"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-sql-db/images/sql-db.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-sql-db/images/sql-db.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/sql-database-connector/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "28f860ac-43b8-40c3-bd21-19f15ac5117e",
+    "registryId": {
+      "us-east-1": "bridge-workday-connector",
+      "eu-west-1": "bridge-workday-connector",
+      "ap-southeast-1": "bridge-workday-connector",
+      "ap-northeast-1": "bridge-workday-connector"
+    },
+    "name": {
+      "en-us": "Workday Connector"
+    },
+    "tagline": {
+      "en-us": "Synchronizing data between PureCloud and Workday"
+    },
+    "briefDescription": {
+      "en-us": "Synchronizing data between PureCloud and Workday.  This connector supports multiple user attributes with directional control."
+    },
+    "fullDescription": {
+      "en-us": "Synchronizing data between PureCloud and Active Directory.  This connector supports multiple user attributes with directional control.  Supported data synchronization for the following:\n\n- Create person in PureCloud\n\n- Update person in PureCloud\n\n- Delete person in PureCloud\n\n- Update person in Workday"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-workday/images/workday-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/connector-workday/images/workday-logo.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/workday-connector/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "7cc998f9-934a-45d9-ba86-164d26900289",
+    "registryId": {},
+    "name": {
+      "en-us": "Emotive Voice Streams (EVS)"
+    },
+    "tagline": {
+      "en-us": "WordBench distills thousands of business phone calls into pure data. It provides transcription, analysis and visualization of live or recorded conversations."
+    },
+    "briefDescription": {
+      "en-us": "EVS is a high powered conversation analytics platform that converts phone calls into pure data. With industry leading translation accuracy within an A.I based eco system, EVS from Call Journey can covert large volumes of conversation into searchable text. It transforms voice recordings into organized, actionable data. EVS lets you access your call intelligence and discover information that can directly affect your customers' experience, employee engagement and your business growth."
+    },
+    "fullDescription": {
+      "en-us": "EVS gives your business a full picture of why your customers are calling, what they are saying and importantly how they are feeling. EVS is a high powered conversation analytics platform that converts phone calls into pure data. With industry leading translation accuracy within a A.I based ecosystem, EVS from Call Journey can convert large volumes of conversation to searchable text with emotion, sentiment, Gender ID+, Emotional Intelligence, Call Duration, Confidence, % Overtalk, % Silence and Speaker Clarity.  Our hardware-accelerated speech recognition engine runs orders of magnitude faster and with greater accuracy than alternatives, enabling transcription of 100% of companies’ voice data. We deliver domain- and data-specific speech intelligence solutions that meet business requirements for customer experience, call center operations, compliance, surveys and transcription applications.\n\nYou can ingest the data into your own BI/Analytics tools and platforms or get started with our analytics platform - Wordbench Wordbench is a dashboard that visualizes the information contained in your  phone conversations allowing you to easily gain insights into what's really happening in your business.\n\n With conversations that occur in organizations every day being a significantly untapped area of unstructured data, your business can now harness the power of huge insights that come from this area of customer engagement with your business. Review crucial areas of contact centre performance or surface insights for your marketing, customer experience or sales business units to super charge business performance.\n\nAmongst a significant number of use cases, EVS allows you to:\n\n - Map Customer Journeys\n\n - Improve sales effectiveness\n\n - Discover Customer Pain points\n\n - Track Agent and Supervisor Performance\n\n- Discover Trends Underlying NPS\n\n- Reduce Churn\n\n - Automate  or Augment Quality Assurance\n\n - Compare Teams and Centres\n\n"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-calljourney/images/evs-cj.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-calljourney/images/evs-logo.png",
+    "companyName": {
+      "en-us": "Call Journey"
+    },
+    "website": {
+      "en-us": "http://www.calljourney.com/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-calljourney/images/wordbench-1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-calljourney/images/wordbench-2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-calljourney/images/wordbench-3.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-calljourney/images/wordbench-4.png"
+    ],
+    "videoLinks": [
+      "https://vimeo.com/239883959"
+    ],
+    "languages": [
+      "UK English",
+      "Australian English",
+      "US English"
+    ],
+    "vendorEmail": "sales@calljourney.com",
+    "termsOfService": "http://www.calljourney.com/about-us/terms-of-use/",
+    "helpDocumentationURL": {
+      "en-us": "http://www.calljourney.com/"
+    },
+    "marketingURL": {
+      "en-us": "http://www.calljourney.com/wordbench"
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "Customer Experience"
+        },
+        "description": {
+          "en-us": "**Use Case Summary**\n\nEVS allows PureCloud users to transcribe call conversations and extract data from their Purecloud recordings matching the rules set by you. The resulting data stream can be ingested into your business intelligence or analytics tools or via PureCloud visualized in a custom dashboard – WordBench, where you can manage your insights. You can chose what call traffic to send to EVS and how much audio (calls) you want to process. Simple and easy user controls allow to manage the flow of audio into EVS.\n\nThe data output can be then used by many business units in a business environment – the Contact Centre, marketing, Customer Experience, Risk and Governance/Compliance, Sales and retention just to name a few. Often organizations add the vast insights available form conversation data into other data sets to give themselves a holistic view of the customer journey or customer interaction.\n\n**Business Benefits**\n\nEVS surfaces actionable data points, sentiment and emotion. By adding valuable data digested from customer phone calls to the existing customer intelligence data set, organizations are able to have a much more effective and complete view of the events in their environment.\n\n**Customer experience**\n\nIt is much more cost effective to retain an existing customer than to acquire a new one. We can help you protect and grow your customer base. Outcomes are traditionally improvement in NPS, productivity gains, product or process improvement and better cost management through more effective insights of customer journeys. Agent and Supervisor engagement also typically increase via insights into best in class performance drivers for a positive customer experience."
+        }
+      },
+      {
+        "title": {
+          "en-us": "Security and Compliance Control"
+        },
+        "description": {
+          "en-us": "**Use Case Summary**\n\nEVS allows PureCloud users to transcribe call conversations and extract data from their Purecloud recordings matching the rules set by you. The resulting data stream can be ingested into your business intelligence or analytics tools or via PureCloud visualized in a custom dashboard – WordBench, where you can manage your insights. You can chose what call traffic to send to EVS and how much audio (calls) you want to process. Simple and easy user controls allow to manage the flow of audio into EVS.\n\nThe data output can be then used by many business units in a business environment – the Contact Centre, marketing, Customer Experience, Risk and Governance/Compliance, Sales and retention just to name a few. Often organizations add the vast insights available form conversation data into other data sets to give themselves a holistic view of the customer journey or customer interaction.\n\n**Business Benefits**\n\nEVS surfaces actionable data points, sentiment and emotion. By adding valuable data digested from customer phone calls to the existing customer intelligence data set, organizations are able to have a much more effective and complete view of the events in their environment.\n\n**Security, Compliance & Control**\n\nListening to conversations is a smart way to protect your business. We make following regulations, fraud prevention and broad script adherence easy and complement existing processes. Outcomes here are protection of risk for the business, improvements in agent and supervisor performance, more effective QA via more targeted call assessments and greater levels of volume of calls being assessed. We also see businesses create proactive fraud management programs via the data insights."
+        }
+      },
+      {
+        "title": {
+          "en-us": "Business Growth"
+        },
+        "description": {
+          "en-us": "**Use Case Summary**\n\nEVS allows PureCloud users to transcribe call conversations and extract data from their Purecloud recordings matching the rules set by you. The resulting data stream can be ingested into your business intelligence or analytics tools or via PureCloud visualized in a custom dashboard – WordBench, where you can manage your insights. You can chose what call traffic to send to EVS and how much audio (calls) you want to process. Simple and easy user controls allow to manage the flow of audio into EVS.\n\nThe data output can be then used by many business units in a business environment – the Contact Centre, marketing, Customer Experience, Risk and Governance/Compliance, Sales and retention just to name a few. Often organizations add the vast insights available form conversation data into other data sets to give themselves a holistic view of the customer journey or customer interaction.\n\n**Business Benefits**\n\nEVS surfaces actionable data points, sentiment and emotion. By adding valuable data digested from customer phone calls to the existing customer intelligence data set, organizations are able to have a much more effective and complete view of the events in their environment.\n\n**Business Growth**\n\nOur ecosystem delivers data which directly affects your bottom line with decreased customer attrition, better workforce training and engagement, fast campaign tracking, ongoing feedback process and broad revenue growth. Outcomes seen here are often revenue gains (cross sell, upsell, conversion rate), greater retention of customers, greater insights into customers (i.e. buying personas, customer triggers and events to help marketing be more targeted and drive better marketing ROI) and improved market share gains via initiatives such as next best offer planning."
+        }
+      }
+    ]
+  },
+  {
+    "id": "abca96f2-467c-4717-a8a1-55e2c82125c0",
+    "registryId": {},
+    "name": {
+      "en-us": "GM Voices"
+    },
+    "tagline": {
+      "en-us": "Integrated Voice Prompt Ordering and Automated Delivery"
+    },
+    "briefDescription": {
+      "en-us": "Using the PureCloud API, GM Voices' application allows for seamless voice prompt ordering and automatic delivery into the IVR environment, making it easier than ever to implement professional voice in your applications."
+    },
+    "fullDescription": {
+      "en-us": "IVR voice prompts in any language. Automatic delivery, so no more having to keep track of your recordings and manually uploading them into the system. Just enter your voice prompt text, choose a voice talent, and select required languages. We handle the translation, recording, processing, and delivery right back into your environment. Quick turnaround and notifiction when the files are ready for you to activate in your IVR."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-gm-voices/images/gmvoices-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-gm-voices/images/gmvoices-logo.png",
+    "companyName": {
+      "en-us": "GM Voices"
+    },
+    "website": {
+      "en-us": "http://www.gmvoices.com/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-gm-voices/images/gmvoices-portal1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-gm-voices/images/gmvoices-portal2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-gm-voices/images/gmvoices-portal3.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "English",
+      "Spanish",
+      "French Canadian",
+      "German"
+    ],
+    "vendorEmail": "tshoemaker@gmvoices.com",
+    "termsOfService": "http://www.gmvoices.com/",
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "Professionally Recorded Voice Prompts in more than 100 of Languages"
+        },
+        "description": {
+          "en-us": "Professionally-recorded voice prompts are an essential complement to Genesys IVR, PureCloud, and other self-service solutions, reducing errors and live agent “zero-outs,” increasing self-service, and presenting a professional, brand-consistent sound that enhances the caller experience. Implementing professional voice and keeping the application current accelerates the ROI of your Genesys investment, and showcases its functionality in the best possible light. GM Voices’ application for Genesys PureCloud makes it faster and easier than ever before to maintain a professional sound, centralizing script entry, order submission, file delivery, and audio uploads"
+        }
+      }
+    ]
+  },
+  {
+    "id": "933c1db5-bee4-4c4e-8ec3-2e61c1cfeb0b",
+    "registryId": {},
+    "name": {
+      "en-us": "Amazon Lex"
+    },
+    "tagline": {
+      "en-us": "Conversational interfaces for your applications"
+    },
+    "briefDescription": {
+      "en-us": "Conversational interfaces for your applications powered by the same deep learning technologies as Alexa"
+    },
+    "fullDescription": {
+      "en-us": "Amazon Lex is a service for building conversational interfaces into any application using voice and text. Amazon Lex provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text, to enable you to build applications with highly engaging user experiences and lifelike conversational interactions. With Amazon Lex, the same deep learning technologies that power Amazon Alexa are now available to any developer, enabling you to quickly and easily build sophisticated, natural language, conversational bots (“chatbots”).\n\nDeployment of Amazon Lex in combination with PureCloud is a powerful combination for a variety of self help applications with the possibility of routing to a customer service representative.  Examples include:\n\n- Customer Service Bots: Account inquires, bill payment, service updates\n\n- Informational Bots: News updates, weather information, games scores\n\n- Application Bots: Booking tickets, order food, manage accounts"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-lex/images/lex-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-lex/images/lex-logo.png",
+    "companyName": {
+      "en-us": "Amazon"
+    },
+    "website": {
+      "en-us": "https://aws.amazon.com/lex/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-lex/images/architect-lex-flow.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-lex/images/aws-lex-config1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-lex/images/aws-lex-config2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-lex/images/architect-lex-detailed.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "English"
+    ],
+    "vendorEmail": "jack.nichols@genesys.com",
+    "termsOfService": "https://aws.amazon.com/lex/",
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": []
+  },
+  {
+    "id": "92c67f83-7ad6-4da5-a72f-e68a8f32a07a",
+    "registryId": {},
+    "name": {
+      "en-us": "nGAGEMENT"
+    },
+    "tagline": {
+      "en-us": "nGUVU is a cloud-based provider of gamified solutions - our gamification platform motivates agents to achieve their objective by immersing them in a fun game-like environment."
+    },
+    "briefDescription": {
+      "en-us": "nGUVU is a cloud-based software provider of gamified solutions that use machine learning and behavioral analytics to create sustained agent engagement in contact centers. Our mission is to revolutionize contact centers, one agent at a time, by creating a better everyday work experience for agents. Our gamification platform motivates agents to achieve their objective by immersing them in a fun game - like environment."
+    },
+    "fullDescription": {
+      "en-us": "nGUVU takes your contact center performance to the next level: employee engagement is achieved via social media features and game mechanics, leveraging your existing contact center data and reports from any vendor solution. nGAGEMENT also adds predictive analytics and powerful reporting tools! Focused on the contact centre agent's daily tasks, nGAGEMENT offers a completely new perspective on KPI results which allows you to engage and interact with your contact centre and your colleagues in a dynamic, fun, and efficient way. We use social media, game mechanics, and recognition concepts to enhance the agent's journey and in turn, improve your call centre's work environment. nGUVU platform is more than a dashboard or a performance management tool. We offer an immersive experience making it fun for the agents to meet their performance. Whatever indicator is important for your company or department, nGAGEMENT can capture the results and translate them into a points concept."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-ngagement/images/nguvu_logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-ngagement/images/ngagement_logo.png",
+    "companyName": {
+      "en-us": "nGUVU"
+    },
+    "website": {
+      "en-us": "www.nguvu.com"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-ngagement/images/nguvu1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-ngagement/images/nguvu2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-ngagement/images/nguvu3.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-ngagement/images/nguvu4.png"
+    ],
+    "videoLinks": [
+      "https://vimeo.com/238976430"
+    ],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@nguvu.com",
+    "termsOfService": "https://www.nguvu.com/legal-information/",
+    "helpDocumentationURL": {
+      "en-us": ""
+    },
+    "marketingURL": {
+      "en-us": "https://www.nguvu.com/resources-1/"
+    },
+    "licensing": {
+      "model": "Named Only",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "nGAGEMENT Platform To Drive Performance & Employee Engagement"
+        },
+        "description": {
+          "en-us": "nGAGEMENT platform motivates call center agents to achieve their objective by immersing them in a fun game-like environment. Focused on the contact center agent's daily tasks, nGAGEMENT offers an entirely new perspective on KPI results which allows agents to engage and interact with the contact center and their colleagues in a dynamic, fun, and efficient way. Social & Peer Recognition - Agents can have visibility on each other performance via leaderboards. Social media capabilities - for example, users can congratulate and acknowledge each other's achievements. Challenges - users can challenge each other in a friendly contest. Management can create 'Sparks' - personalized missions for agents on a daily basis to better engage with them and improve performance. Team-wide visible contest and challenges can be launched and visible to the platform users. Reward System - nGAGEMENT offers 2 point systems (GUVUs and Performance Points) that can be used by agents to customize their avatars, interface and to qualify to win Contests, Challenges and Sparks. KPIs and Performance Tracking - complete tracking of all of your contact center KPIs on a per agent level in one place. Agents can track their individual performance. Machine Learning & Analytics - Gain insights into performance, employee attrition, KPI and performance correlations, dynamic agent challenges and more. Integration - full integration with a Genesys PureCloud. Learning Module - manage quizzes and connect them to your reward rules. Business Benefits. Increase employee engagement, reduce agent workforce attrition, and drive performance with nGAGEMENT. Using game mechanics, machine learning, and behavioral analytics nGAGEMENT influences desired behaviors in agents by leveraging their natural desires for competition, collaboration, achievement, status, and recognition. It is an immersive experience that motivates agents to achieve objectives."
+        }
+      }
+    ]
+  },
+  {
+    "id": "1f3df1a1-1aae-4439-b235-376062fc0b14",
+    "registryId": {},
+    "name": {
+      "en-us": "PureInsights"
+    },
+    "tagline": {
+      "en-us": "PureInsights Configurable Dashboard for PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "The Configurable Dashboard displays popular stats for contact centers real time, with alerts, from a browser.  Easy to setup and it's wherever you are!"
+    },
+    "fullDescription": {
+      "en-us": "The PureInsights Configurable Dashboard and Call Detail Extractor Features are bundled together in a single subscription. The Configurable Dashboard features continuous updates in REAL TIME, alerts are color coded to quickly assess. The Dashboard is browser-based so it's accessible from anywhere, including moble. The Call Detail Extractor features a view of results in the web browser and also a clean CSV format for download to load into Excel easily or another BI tool. Data includes ANI and DNIS columns and Grand Total across all selected Queues. Both are cloud-based offerings so there's no software to install!"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/pureinsightscompanyicon.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/pureinsightscompanyicon.svg",
+    "companyName": {
+      "en-us": "PureInsights"
+    },
+    "website": {
+      "en-us": "www.getpureinsights.com"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/picture1.svg",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/picture2.svg",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/picture3.svg",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/picture4.svg",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/picture5.svg",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-pureinsights/images/picture6.svg"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "pi.sales@mypureinsights.com",
+    "termsOfService": "https://www.mypureinsights.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "PureCloud Contact Center Supervisors need to make staffing decisions in real time"
+        },
+        "description": {
+          "en-us": "##Use Case Summary\n\n * On a Wednesday afternoon, a time which is normally slower in the Contact Center at ExampleCo, the number of Calls Waiting for the Customer Service Queue reaches 10.\n\n * PureInsights, which is displayed on a flat panel in the Contact Center, triggers the visual alert indicator on Calls Waiting for Customer Service to color red, indicating a critical threshold has been passed.\n\n * Customer Service Reps Sally and Joe are having a conversation near their desks, see this “red alert” and to go back to their seats to make themselves “Available.”\n\n * Both Sally and Joe immediately each get a call for Customer Service.\n\n * PureInsights recognizes the Calls Waiting for Customer Service has dropped to 8 and immediately removes the alert’s red color from the Calls Waiting stat on the Dashboard.\n\n ##Business benefits\n\n Agents in the Contact Center are able to see a real time view of the Contact Center’s activity. This allows them to self-manage, making decisions which have immediate impact to customers and the business."
+        }
+      },
+      {
+        "title": {
+          "en-us": "The need to quickly understand what’s happening in your PureCloud Contact Center when you’re away"
+        },
+        "description": {
+          "en-us": "##Use Case Summary\n\n * It’s a Tuesday morning at ExampleCo, and is not quite as busy as usual, so Supervisor Tom decides to call an impromptu team meeting for his team that is part of the Sales Queue.\n\n * During the meeting, which runs a little longer than Tom expected, he briefly takes out his smartphone to check to see if calls are backing up in Sales.\n\n * Tom access PureInsights using the browser on his smartphone.\n\n * After a quick glance at the PureInsights Dashboard, Tom can immediately tell there are no calls waiting in the Sales queue.\n\n * Tom now can continue the conversation with confidence knowing that no customers are waiting and the other members of the Sales Queue can manage just fine.\n\n ##Business benetifs\n\n The PureInsights Configurable Dashboard provides at-a-glance understanding of your Contact Center activity. Since it’s browser-based, it’s wherever you are: desktop, wallboard, tablet or smartphone."
+        }
+      },
+      {
+        "title": {
+          "en-us": "BPO need to bill their clients based on call volume by DNIS"
+        },
+        "description": {
+          "en-us": "The HealthSolutions Company is a business process outsourcer (BPO) who takes calls about medical bill questions for Healthcare Providers, including how many calls were handled each month to the doctor’s unique phone number (DNIS) that routes to the HealthSolutions contact center, which is powered by PureCloud.\n\n * Each doctors office who is a client of HealthSolutions publishes a their own individual phone number on their invoice.\n\n * The doctor’s phone number for medical bill questions route to HealthSolutions and are identified and routed by DNIS (Dialed Number Information Service).\n\n * HealthSolutions reports to each of their clients how many phone calls were received per month as part of their billing.\n\n * Allen in Accounts Recievables at HealthSolutions, as part of his monthly invoicing process to the doctors' offices, accesses PureInsights to run the Call Detail CSV extract.\n\n * Allen runs the report for last month in PureInsights and clicks download to saves the file as a CSV (comma separated values) on his computer.\n\n * Allen can then double click on the file to open it in Excel and see the number of calls placed to each doctor office’s phone number in the DNIS column, so he knows how many calls to report for their invoice.\n\n ##Business benefits\n\n The PureInsights Call Detail CSV Extract contains several value-add colums such as DNIS, Wrap-up Code, Number of Transfers and others to improve the data and analytics experience for PureCloud customers."
+        }
+      }
+    ]
+  },
+  {
+    "id": "b5df6d7b-af99-493c-a169-cf81f7681fb2",
+    "registryId": {},
+    "name": {
+      "en-us": "QuickData"
+    },
+    "tagline": {
+      "en-us": "Quick, hassle-free analytics about your business."
+    },
+    "briefDescription": {
+      "en-us": "QuickData is an embedded PureCloud application that allows users to quickly view and download custom, historical statistics and reports."
+    },
+    "fullDescription": {
+      "en-us": "#About QuickData\n\nQuickData is an easy-to-use, AWS cloud hosted analytics dashboard that has the ability to display and extract many predefined statistics and custom PureCloud reports.\n\n#Benefits:\n\n* Easy-to-use interface allows your business to quickly and efficiently review historical data.\n\n* Quickly review and filter premade statistics and reports developed by the Genesys Professional Services Development team.\n\n* Stay inside PureCloud – You don’t have to worry about having too many tabs or windows open. Review statistics directly inside of the PureCloud Collaborate window.\n\n* Download any of the preconfigured stats, reports, and their filters as a CSV file for use in other your tool of choice."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-quickdata/images/genesys-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-quickdata/images/genesys-logo.png",
+    "companyName": {
+      "en-us": "Genesys"
+    },
+    "website": {
+      "en-us": "www.genesys.com"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-quickdata/images/quickdata-embedded-stat.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-quickdata/images/average-handle-time.png"
+    ],
+    "videoLinks": [
+      "https://vimeo.com/238684293"
+    ],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "PSO-PresalesNA@genesys.com",
+    "termsOfService": "",
+    "helpDocumentationURL": {
+      "en-us": "https://quickdata.oncaas.com/help.html"
+    },
+    "marketingURL": {
+      "en-us": "https://quickdata.oncaas.com/about.html"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "4b0589e5-3d7a-41f9-9699-1ee12e4504db",
+    "registryId": {},
+    "name": {
+      "en-us": "Survey Dynamix"
+    },
+    "tagline": {
+      "en-us": "Real-time actionable customer service insights"
+    },
+    "briefDescription": {
+      "en-us": "The Survey Dynamix solution provides an intuitive web-based interface that allows users to create and automatically conduct highly flexible surveys. Through a number of unique capabilities, Survey Dynamix enables businesses and organisations to collect real-time, actionable insights from customers, anywhere and at any time.By offering voice, SMS, email and web-based surveys, Survey Dynamix allows businesses to choose the medium most suited to their customers and product."
+    },
+    "fullDescription": {
+      "en-us": "Survey Dynamix is a cloud-based, post-call survey solution developed by a team of specialists with over 30 years’ combined experience within the customer contact centre environment.\n\nThe Survey Dynamix solution provides an intuitive web-based interface that allows users to create and automatically conduct highly flexible surveys. Through a number of unique capabilities, Survey Dynamix enables businesses and organisations to collect real-time, actionable insights from customers, anywhere and at any time.\n\nBy offering voice, SMS, email and web-based surveys, Survey Dynamix allows users to choose the medium most suited to their customers and product.\n\nSurveys are designed using an intuitive survey creation interface. This interface enables users to choose from a variety of different question types such as numeric scoring, voice recordings, free text SMS responses, Yes/No and Net Promoter Score.\n\nThrough native integration using our API or via the Zapier API ecosystem, Survey Dynamix can be easily integrated with existing in-house systems such as CRM software, telephony systems or online platforms. Survey Dynamix has a powerful two-way integration with the world’s leading contact centre software platforms - Genesys PureEngage and Genesys PureCloud.\n\nThe real-time dashboard provides all the information required to keep track of responses at any given time. \n\nThe dashboard’s intuitive design provides a snapshot of important statistics including surveys completed, abandoned, pending, average survey response time and completion rate by medium.\n\nFor more detailed insights, survey results can be aggregated against custom and core attributes such as agent, customer segment, product, service, customer type and interaction type.\n\nSurvey Dynamix provides real-time actionable insight into the sentiment of your customers."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/survey_dynamix_logo_rb.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/survey_dynamix_logo_rb.png",
+    "companyName": {
+      "en-us": "Contact Dynamix Pty Ltd"
+    },
+    "website": {
+      "en-us": "https://surveydynamix.com"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/3.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/4.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-survey-dynamix/images/5.png"
+    ],
+    "videoLinks": [
+      "https://vimeo.com/238684293"
+    ],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "al@contactdynamix.com.au",
+    "termsOfService": "https://surveydynamix.com/terms_of_use",
+    "helpDocumentationURL": {
+      "en-us": ""
+    },
+    "marketingURL": {
+      "en-us": "https://surveydynamix.com"
+    },
+    "industries": [
+      "universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "Automated Surveys with Integrated Reporting"
+        },
+        "description": {
+          "en-us": "## Use Case Summary\n\nBased on pre-configured criteria, when a customer interaction is completed by a user in the PureCloud organisation, PureCloud automatically notifies Survey Dynamix of the details of the interaction so that a survey can be scheduled for the future. The survey can be carried out over: \n* Inbound Voice - the PureCloud agent will transfer the caller to the survey at the conclusion of the call\n* Outbound Voice - Survey Dynamix will call the caller in the future to conduct the survey\n* SMS - the caller will complete the survey via conversational SMS in the future\n* Web – the survey is completed on a web page\n* Email – the survey is presented in an email and the first question is answered from within the email and the remainder of the survey over a web page\n\nWhen creating a survey, PureCloud passes relevant business data to Survey Dynamix which allows Survey Dynamix to provide personalised and contextual survey prompts and context rich real-time reporting.\n\nThe Survey Dynamix dashboard is embedded as an “app” within the PureCloud interface. This provides users with easy access to the real-time reporting available on the dashboard from the PureCloud App view.\n\nSidebar widgets can be configured with any combination of the charts and tables available in the Survey Dynamix solution for easy access and continuous visibility of the metrics important to the PureCloud user.\n\n## Business Benefits\n\nHaving Survey Dynamix embedded in Purecloud means that users do not need to go far to keep an eye on the important feedback of their customers. Single sign-on means users are authenticated automatically and provided the views appropriate to their access levels – supervisors and managers can view the overall feedback for the centre while agents can keep an eye on the feedback specific to them.\nSurveying customers automatically is important to ensure feedback is received in a timely manner and providing the ability to survey customers across a variety of different channels means the most appropriate channel for the customer can be chosen to ensure the maximum amount of completed surveys is received."
+        }
+      },
+      {
+        "title": {
+          "en-us": "Receiving Survey Feeback in PureCloud"
+        },
+        "description": {
+          "en-us": "## Use Case Summary\n\nSurvey Dynamix can be configured to automatically send notifications to any PureCloud chat channel to notify users about certain survey outcomes such as a perfect score achieved by an agent, or a very negative survey response.\n\nSurvey Dynamix can automatically add negative survey responses into a calling list associated with a PureCloud Outbound Campaign so that specialist agents can research the customer complaint and make proactive outbound calls to the customer almost immediately after the feedback has been received – a response which would certainly go a long way to providing an outstanding customer experience.\n\n## Business Benefits\n\nResponding to customer feedback quickly is critical to turning around negative experiences. The integration with Purecloud provides immediate notifications to users in Purecloud enabling them to investigate and respond immediately. This can be further automated through the use of Outbound Contact campaigns."
+        }
+      }
+    ]
+  },
+  {
+    "id": "14d64093-c27c-4221-9c5a-ed517416d13f",
+    "registryId": {
+      "us-east-1": "voci-transcription",
+      "eu-west-1": "voci-transcription",
+      "ap-southeast-1": "voci-transcription",
+      "ap-northeast-1": "voci-transcription"
+    },
+    "name": {
+      "en-us": "Voci V-Spark"
+    },
+    "tagline": {
+      "en-us": "Speech-to-Text Transcription & Analytics"
+    },
+    "briefDescription": {
+      "en-us": "Extract actionable intelligence through Voci’s best-in-class transcription engine and analytics application."
+    },
+    "fullDescription": {
+      "en-us": "Take advantage of the most accurate and most complete speech-to-text transcription engine on the market. Seamlessly integrated with PureCloud, you can send your recorded calls straight to Voci’s engine and expose the full text with punctuation within the V-Spark App. The app offers a dashboard with an overview of calls within a given timeframe, including meta data of calls, as well as the emotional content (scored as positive, negative, improving or worsening).\n\nYou will also have access to application templates such as Agent Scorecard, Call Drivers and Customer Experience, offering trends and quick access to transcripts that include specific words, phrases and metadata."
+    },
+    "platforms": [
+      {
+        "name": "PureEngage"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-voci/images/vspark-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-voci/images/voci-logo.png",
+    "companyName": {
+      "en-us": "Voci"
+    },
+    "website": {
+      "en-us": "http://www.calljourney.com/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-voci/images/voci-1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-voci/images/voci-2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-voci/images/voci-transcript-1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/external-voci/images/voci-transcript-2.png"
+    ],
+    "videoLinks": [
+      "https://vimeo.com/242655574"
+    ],
+    "languages": [
+      "english",
+      "frenchCanadian",
+      "australianEnglish",
+      "ukEnglish",
+      "mexicanSpanish"
+    ],
+    "version": "3.3",
+    "vendorEmail": "sales@vocitec.com",
+    "termsOfService": "",
+    "helpDocumentationURL": {
+      "en-us": "https://help.mypurecloud.com/articles/set-voci-v-spark-transcription-speech-analytics-integration/"
+    },
+    "marketingURL": {
+      "en-us": "https://vocitec.com/what-we-do"
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": []
+  },
+  {
+    "id": "09a83a9c-b19d-4719-a575-8bd4e1b191ba",
+    "registryId": {},
+    "name": {
+      "en-us": "PureCloud for Chrome"
+    },
+    "tagline": {
+      "en-us": "PureCloud for Chrome keeps your contact center at the tips of your fingers wherever you may roam on the web"
+    },
+    "briefDescription": {
+      "en-us": "Make it easy for your team to benefit from the power of PureCloud with minimal training. Simply add PureCloud to your Chrome Browser. The integration puts lightweight agent call controls directly in Chrome, enabling your team to make and manage omnichannel interactions, leveraging robust PureCloud functionality such as response management and interaction details. \nRead more at: https://chrome.google.com/webstore/detail/purecloud-for-chrome/hmfbbbllmchppnhebjbikebbnfmgcehp"
+    },
+    "fullDescription": {
+      "en-us": "The PureCloud integration with Chrome enables a comprehensive, yet easy-to-use contact center solution to deliver remarkable customer experiences. Benefits that include: \n\n\tIncrease first call resolution rates \n\n\tImprove the customer experience \n\n\"Out of the Box\" integration for screen pops and click to dial \nThis integration works with Genesys's PureCloud contact center Platform.  By embedding in the browser, PureCloud becomes accessible on any web page you use in teh course of your business, giving agents the freedom necessary to find the right information to help your customers.  When receiving a call via PureCloud, screen pop a URL to provide your agent with the context necessary to resolve of the call. Shave time off each interaction and improve accuracy by leveraging click to dial capabilites to place calls from directly within any web page."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-chrome/images/genesys-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-chrome/images/purecloud-logo.png",
+    "companyName": {
+      "en-us": "Genesys"
+    },
+    "website": {
+      "en-us": "www.genesys.com/purecloud"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-chrome/images/screenshot_0.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-chrome/images/screenshot_1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-chrome/images/screenshot_2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-chrome/images/screenshot_3.png"
+    ],
+    "videoLinks": [
+      ""
+    ],
+    "languages": [
+      "English"
+    ],
+    "version": "1.0",
+    "vendorEmail": "support@mypurecloud.com",
+    "termsOfService": "https://help.mypurecloud.com/articles/terms-and-conditions/",
+    "helpDocumentationURL": {
+      "en-us": "https://help.mypurecloud.com/articles/about-purecloud-for-Chrome-administrators/"
+    },
+    "marketingURL": {
+      "en-us": "https://www.genesys.com/purecloud/products"
+    },
+    "licensing": {
+      "model": "Named Only",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": []
+  },
+  {
+    "id": "0be859e5-1774-48fa-ac5f-1c9f142013f8",
+    "registryId": {},
+    "name": {
+      "en-us": "PureCloud for Salesforce"
+    },
+    "tagline": {
+      "en-us": "PureCloud for Salesforce layers the robust PureCloud platform on top of Salesforce for seamless integration"
+    },
+    "briefDescription": {
+      "en-us": "Make it easy for your team to benefit from the power of PureCloud with minimal training. Simply add PureCloud to your Salesforce interface. The integration puts lightweight agent call controls directly in Salesforce, enabling your team to make and manage omnichannel interactions, leveraging robust PureCloud functionality such as response management and interaction details. Learn more at the Salesforce AppExchange."
+    },
+    "fullDescription": {
+      "en-us": "Agents who use Salesforce as their primary desktop can easily combine the PureCloud platform into their current solutions. The PureCloud for Salesforce integration puts PureCloud telephony, chat and email interactions directly in the Salesforce user interface. It also extends your Salesforce data to include information about each interaction that an agent handles, further increasing the value of that data. You don't need to install anything on a user's computer or maintain or back up anything on your own servers. With PureCloud for Salesforce, you can merge all your organization's tools, efficiently providing the best customer experience. Empower your cloud contact center with tools that not only work well, but also work well together."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-salesforce/images/genesys-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-salesforce/images/salesforcelogo.png",
+    "companyName": {
+      "en-us": "Genesys"
+    },
+    "website": {
+      "en-us": "www.genesys.com/purecloud"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-salesforce/images/lightning-screenshot.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-salesforce/images/call_log_example_pc.png"
+    ],
+    "videoLinks": [
+      ""
+    ],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "support@mypurecloud.com",
+    "termsOfService": "https://help.mypurecloud.com/articles/terms-and-conditions/",
+    "helpDocumentationURL": {
+      "en-us": "https://help.mypurecloud.com/articles/about-purecloud-for-salesforce-agents/"
+    },
+    "marketingURL": {
+      "en-us": "https://www.genesys.com/purecloud/products/integrations/CRM-integrations/Salesforce"
+    },
+    "licensing": {
+      "model": "Named Only",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "Increasing the speed and reliability of business critical transactions"
+        },
+        "description": {
+          "en-us": "##Benefits that include\n - Increase first call resolution rates\n - Improve the customer experience\n - 'Out of the Box' integration for screen pops and click to dial\n\nThis integration works with the PureCloud contact center Platform. When receiving a call via PureCloud, screen pop a Salesforce ticket or a Salesforce user profile to help speed up the resolution of the call interaction. Shave minutes off each of your call interactions by having a new ticket automatically opened in Salesforce and presented to you so you can immediately start taking notes about the call and capture the relevant information you need to get the issue resolved."
+        }
+      }
+    ]
+  },
+  {
+    "id": "2530aa5b-4cd4-4122-80c4-3dd4dc08d3e1",
+    "registryId": {},
+    "name": {
+      "en-us": "PureCloud for Zendesk"
+    },
+    "tagline": {
+      "en-us": "PureCloud for Zendesk layers the robust PureCloud platform on top of Zendesk for seamless integration"
+    },
+    "briefDescription": {
+      "en-us": "Make it easy for your team to benefit from the power of PureCloud with minimal training. Simply add PureCloud to your Zendesk interface. The integration puts lightweight agent call controls directly in Zendesk, enabling your team to make and manage omnichannel interactions, leveraging robust PureCloud functionality such as response management and interaction details. Learn more at the Zendesk AppExchange."
+    },
+    "fullDescription": {
+      "en-us": "The PureCloud integration with Zendesk enables a comprehensive, yet easy-to-use contact center solution to deliver remarkable customer experiences. Benefits that include: \n\nIncrease first call resolution rates \n\nImprove the customer experience \n\n\"Out of the Box\" integration for screen pops and click to dial\n\nThis integration works with Genesys's PureCloud contact center Platform. When receiving a call via PureCloud, screen pop a Zendesk ticket or a Zendesk user profile to help speed up the resolution of the call interaction. Shave minutes off each of your call interactions by having a new ticket automatically opened in Zendesk and presented to you so you can immediately start taking notes about the call and capture the relevant information you need to get the issue resolved."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-zendesk/images/genesys-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-zendesk/images/zendesk-medium.svg",
+    "companyName": {
+      "en-us": "Genesys"
+    },
+    "website": {
+      "en-us": "www.genesys.com/purecloud"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-zendesk/images/screenshot-0.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-zendesk/images/screenshot-1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-zendesk/images/screenshot-2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-for-zendesk/images/screenshot-3.png"
+    ],
+    "videoLinks": [
+      ""
+    ],
+    "isWide": "true",
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "support@mypurecloud.com",
+    "termsOfService": "https://help.mypurecloud.com/articles/terms-and-conditions/",
+    "helpDocumentationURL": {
+      "en-us": "https://help.mypurecloud.com/articles/about-purecloud-for-zendesk-administrators/"
+    },
+    "marketingURL": {
+      "en-us": "https://www.genesys.com/purecloud/products/integrations/CRM-integrations/Zendesk"
+    },
+    "licensing": {
+      "model": "Named Only",
+      "cost": "",
+      "specialNotice": ""
+    },
+    "industries": [
+      "Universal"
+    ],
+    "smartCases": [
+      {
+        "title": {
+          "en-us": "Increasing the speed and reliability of business critical transactions"
+        },
+        "description": {
+          "en-us": "##Benefits that include\n - Increase first call resolution rates\n - Improve the customer experience\n - 'Out of the Box' integration for screen pops and click to dial\n\nThis integration works with the PureCloud contact center Platform. When receiving a call via Engage, screen pop a Zendesk ticket or a Zendesk user profile to help speed up the resolution of the call interaction. Shave minutes off each of your call interactions by having a new ticket automatically opened in Zendesk and presented to you so you can immediately start taking notes about the call and capture the relevant information you need to get the issue resolved."
+        }
+      }
+    ]
+  },
+  {
+    "id": "d6260839-f6d9-4a54-b3e2-724e06274404",
+    "registryId": {
+      "us-east-1": "webhooks-generic",
+      "eu-west-1": "webhooks-generic",
+      "ap-southeast-1": "webhooks-generic",
+      "ap-northeast-1": "webhooks-generic"
+    },
+    "name": {
+      "en-us": "Generic Webhook"
+    },
+    "tagline": {
+      "en-us": "Generic PureCloud Webhook Integration"
+    },
+    "briefDescription": {
+      "en-us": "Generic event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "Generic event notifications can be configured to automatically posted to group chat rooms.  Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nPureCloud supports chat notifications integrations with these third-party systems\n\n - UserVoice\n\n - BitBucket\n\n - GitHub\n\n - Jenkins\n\n - Jira\n\n - PagerDuty\n\n - PivotalTracker\n\n - StatusPage\n\n - Trello\n\n - Zendesk"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-webhooks/images/genesys-logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/purecloud-webhooks/images/genesys-logo.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "http://www.genesys.com/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "fc888f2d-aff2-40a8-8c46-8acade3fc5dd",
+    "name": {
+      "en-us": "Microsoft ADFS"
+    },
+    "tagline": {
+      "en-us": "Micosoft Active Directory Federation Services (ADFS) for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "Micosoft Active Directory Federation Services (ADFS) for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage Microsoft Active Directory Federation Services (ADFS) as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select Microsoft ADFS and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Google G Suite\n\n - Microsoft Azure Active Directory (AD) Premium Edition\n\n - Okta\n\n - OneLogin\n\n - Ping Identity\n\n - Salesforce"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-adfs/images/microsoft-adfs.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-adfs/images/microsoft-adfs.png",
+    "companyName": {
+      "en-us": "Microsoft"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-onelogin-as-single-sign-on-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "64f6d8bc-6170-488b-b030-6b176734d0f1",
+    "name": {
+      "en-us": "Microsoft Azure AD Premium"
+    },
+    "tagline": {
+      "en-us": "Microsoft Azure AD Premium for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "Microsoft Azure AD Premium for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage Microsoft Azure AD Premium as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select Microsoft Azure AD Premium and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Google G Suite\n\n - Microsoft ADFS\n\n - Okta\n\n - OneLogin\n\n - Ping Identity\n\n - Salesforce"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-azure-ad/images/azure1.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-azure-ad/images/azure1.png",
+    "companyName": {
+      "en-us": "Microsoft"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-microsoft-azure-ad-premium-single-sign-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "723ba66e-ca37-4624-a5e1-08ab25aa4035",
+    "name": {
+      "en-us": "Google G Suite"
+    },
+    "tagline": {
+      "en-us": "Google G Suite for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "Google G Suite for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage Google G Suite as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select Google G Suite and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Salesforce\n\n - Microsoft ADFS\n\n - Microsoft Azure AD Premium\n\n - Okta\n\n - OneLogin\n\n - Ping Identity"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-google-g/images/gsuite.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-google-g/images/gsuite.png",
+    "companyName": {
+      "en-us": "Google G Suite"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-google-g-suite-single-sign-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "9e75cf53-c84f-44c2-acb5-d412a1fe5055",
+    "name": {
+      "en-us": "Okta"
+    },
+    "tagline": {
+      "en-us": "Okta for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "Okta for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage Okta as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select Okta and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Google G Suite\n\n - Microsoft ADFS\n\n - Microsoft Azure AD Premium\n\n - OneLogin\n\n - Ping Identity\n\n - Salesforce"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-okta/images/okta.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-okta/images/okta.png",
+    "companyName": {
+      "en-us": "Okta"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-okta-as-a-single-sign-on-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "b34c7dda-95ca-4f52-a0da-1b233e109742",
+    "name": {
+      "en-us": "OneLogin"
+    },
+    "tagline": {
+      "en-us": "OneLogin for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "OneLogin for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage OneLogin as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select OneLogin and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Google G Suite\n\n - Microsoft ADFS\n\n - Microsoft Azure AD Premium\n\n - Okta\n\n - Ping Identity\n\n - Salesforce"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-onelogin/images/onelogin.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-onelogin/images/onelogin.png",
+    "companyName": {
+      "en-us": "OneLogin"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-onelogin-as-single-sign-on-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "d1426cd8-9dc0-4f78-bece-e671e2981590",
+    "name": {
+      "en-us": "Ping Identity"
+    },
+    "tagline": {
+      "en-us": "Ping Identity for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "Ping Identity for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage Ping Identity as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select Ping Identity and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Google G Suite\n\n - Microsoft ADFS\n\n - Microsoft Azure AD Premium\n\n - Okta\n\n - OneLogin\n\n - Salesforce"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-ping/images/ping_identity.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-ping/images/ping_identity.png",
+    "companyName": {
+      "en-us": "Ping Identity"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-ping-identity-single-sign-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "3f77af03-5fe6-4165-8ea7-d563e1fddeb2",
+    "name": {
+      "en-us": "Salesforce"
+    },
+    "tagline": {
+      "en-us": "Salesforce for Single Sign-On with PureCloud"
+    },
+    "briefDescription": {
+      "en-us": "Salesforce for Single Sign-On with PureCloud"
+    },
+    "fullDescription": {
+      "en-us": "Customers can leverage Salesforce as an identity provider for Single Sign-On (SSO) to PureCloud. When prompted to login to PureCloud users can click the identity provider option, select Salesforce and provide those alternative credentials for authentication.\n\nPureCloud offers these other third-party providers as well:\n\n - Google G Suite\n\n - Microsoft ADFS\n\n - Microsoft Azure AD Premium\n\n - Okta\n\n - OneLogin\n\n - Ping Identity"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-salesforce/images/salesforcelogo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/sso-salesforce/images/salesforcelogo.png",
+    "companyName": {
+      "en-us": "Salesforce"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/add-salesforce-as-a-single-sign-on-provider/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "5b9847b0-0d34-445d-9f9b-c1c0e7fbef71",
+    "registryId": {
+      "us-east-1": "webhooks-bitbucket",
+      "eu-west-1": "webhooks-bitbucket",
+      "ap-southeast-1": "webhooks-bitbucket",
+      "ap-northeast-1": "webhooks-bitbucket"
+    },
+    "name": {
+      "en-us": "Bitbucket"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for Bitbucket"
+    },
+    "briefDescription": {
+      "en-us": "BitBucket event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with BitBucket allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your BitBucket account and you are done!\n\n**Use Case**\n\n - Creation of a pull request within BitBucket notifies the development team associated to the pull request via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-bitbucket/images/bitbucket-blue.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-bitbucket/images/bitbucket-blue.svg",
+    "companyName": {
+      "en-us": "BitBucket"
+    },
+    "website": {
+      "en-us": "https://bitbucket.org/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "099a9667-b7fb-4f8c-9e95-5f95efd29926",
+    "registryId": {
+      "us-east-1": "webhooks-github",
+      "eu-west-1": "webhooks-github",
+      "ap-southeast-1": "webhooks-github",
+      "ap-northeast-1": "webhooks-github"
+    },
+    "name": {
+      "en-us": "GitHub"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for GitHub"
+    },
+    "briefDescription": {
+      "en-us": "GitHub event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with GitHub allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your GitHub account and you are done!\n\n**Use Case**\n\n - Creation of a pull request within GitHub notifies the development team associated to the pull request via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-github/images/github_logo.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-github/images/github_logo.png",
+    "companyName": {
+      "en-us": "GitHub"
+    },
+    "website": {
+      "en-us": "https://github.com/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "5fec4331-693d-4159-8034-aeb170865f87",
+    "registryId": {
+      "us-east1": "webhooks-jenkins",
+      "eu-west-1": "webhooks-jenkins",
+      "ap-southeast-1": "webhooks-jenkins",
+      "ap-northeast-1": "webhooks-jenkins"
+    },
+    "name": {
+      "en-us": "Jenkins"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for Jenkins"
+    },
+    "briefDescription": {
+      "en-us": "Jenkins event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with Jenkins allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your BitBucket account and you are done!\n\n**Use Case**\n\n - Once a build job has been kicked off event notificatons to the development team are delivered via chat to their PureCloud group"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-jenkins/images/jenkins.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-jenkins/images/jenkins.png",
+    "companyName": {
+      "en-us": "Jenkins"
+    },
+    "website": {
+      "en-us": "https://jenkins.io/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "f0fced4a-36a6-44cc-9e6b-aada3fb1e407",
+    "registryId": {
+      "us-east-1": "webhooks-jira",
+      "eu-west-1": "webhooks-jira",
+      "ap-southeast-1": "webhooks-jira",
+      "ap-northeast-1": "webhooks-jira"
+    },
+    "name": {
+      "en-us": "Jira"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for Jira"
+    },
+    "briefDescription": {
+      "en-us": "Jira event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with Jira allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your GitHub account and you are done!\n\n**Use Case**\n\n - Creation of a Jira ticket notifies the service team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-jira/images/jira-logo.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-jira/images/jira-logo.svg",
+    "companyName": {
+      "en-us": "Jira"
+    },
+    "website": {
+      "en-us": "https://www.atlassian.com/software/jira"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "7decc574-5ccb-43a3-8216-dfa8d392c1f5",
+    "registryId": {
+      "us-east-1": "webhooks-pagerduty",
+      "eu-west-1": "webhooks-pagerduty",
+      "ap-southeast-1": "webhooks-pagerduty",
+      "ap-northeast-1": "webhooks-pagerduty"
+    },
+    "name": {
+      "en-us": "PagerDuty"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for PagerDuty"
+    },
+    "briefDescription": {
+      "en-us": "PagerDuty event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with PagerDuty allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your PagerDuty account and you are done!\n\n**Use Case**\n\n - An event is triggered in PagerDuty, PagerDuty notifies the service team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-pager-duty/images/pagerduty.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-pager-duty/images/pagerduty.svg",
+    "companyName": {
+      "en-us": "PagerDuty"
+    },
+    "website": {
+      "en-us": "https://www.pagerduty.com/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "1864b462-2fa6-4a68-8d94-0301dc623288",
+    "registryId": {
+      "us-east-1": "webhooks-pivotal-tracker",
+      "eu-west-1": "webhooks-pivotal-tracker",
+      "ap-southeast-1": "webhooks-pivotal-tracker",
+      "ap-northeast-1": "webhooks-pivotal-tracker"
+    },
+    "name": {
+      "en-us": "PivotalTracker"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for PivotalTracker"
+    },
+    "briefDescription": {
+      "en-us": "PivotalTracker event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with PivotalTracker allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your PivotalTracker account and you are done!\n\n**Use Case**\n\n - A workflow event completes that triggers PivotalTracker to notify the service team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-pivotal-tracker/images/pivotaltracker.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-pivotal-tracker/images/pivotaltracker.png",
+    "companyName": {
+      "en-us": "PivotalTracker"
+    },
+    "website": {
+      "en-us": "https://www.pivotaltracker.com/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "ae58936e-252d-4dae-a776-4f564c9775c4",
+    "registryId": {
+      "us-east-1": "webhooks-statuspage",
+      "eu-west-1": "webhooks-statuspage",
+      "ap-southeast-1": "webhooks-statuspage",
+      "ap-northeast-1": "webhooks-statuspage"
+    },
+    "name": {
+      "en-us": "StatusPage"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for StatusPage"
+    },
+    "briefDescription": {
+      "en-us": "StatusPage event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with StatusPage allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your StatusPage account and you are done!\n\n**Use Case**\n\n - A critical status event occurs that triggers StatusPage to notify the service team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-status-page/images/statuspage.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-status-page/images/statuspage.svg",
+    "companyName": {
+      "en-us": "StatusPage"
+    },
+    "website": {
+      "en-us": "https://www.statuspage.io"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "28895253-eb3b-4743-a0f9-a3ba430a6e2f",
+    "registryId": {
+      "us-east-1": "webhooks-trello",
+      "eu-west-1": "webhooks-trello",
+      "ap-southeast-1": "webhooks-trello",
+      "ap-northeast-1": "webhooks-trello"
+    },
+    "name": {
+      "en-us": "Trello"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for Trello"
+    },
+    "briefDescription": {
+      "en-us": "Trello event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with Trello allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your Trello account and you are done!\n\n**Use Case**\n\n - A update to a Trello card occurs that triggers Trello to notify the team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-trello/images/trello.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-trello/images/trello.png",
+    "companyName": {
+      "en-us": "Trello"
+    },
+    "website": {
+      "en-us": "https://trello.com/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "c1cff853-fc8b-4b4a-bf05-0d5423fdb056",
+    "registryId": {
+      "us-east-1": "webhooks-uservoice",
+      "eu-west-1": "webhooks-uservoice",
+      "ap-southeast-1": "webhooks-uservoice",
+      "ap-northeast-1": "webhooks-uservoice"
+    },
+    "name": {
+      "en-us": "UserVoice"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for UserVoice"
+    },
+    "briefDescription": {
+      "en-us": "UserVoice event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with UserVoice allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your UserVoice account and you are done!\n\n**Use Case**\n\n - Customer feedback is provided that triggers UserVoice to notify the service team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-user-voice/images/uservoice.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-user-voice/images/uservoice.svg",
+    "companyName": {
+      "en-us": "UserVoice"
+    },
+    "website": {
+      "en-us": "www.uservoice.com"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "2e1249f4-f9e6-4342-97ac-6d2349bc1833",
+    "registryId": {
+      "us-east-1": "webhooks-zendesk",
+      "eu-west-1": "webhooks-zendesk",
+      "ap-southeast-1": "webhooks-zendesk",
+      "ap-northeast-1": "webhooks-zendesk"
+    },
+    "name": {
+      "en-us": "Zendesk"
+    },
+    "tagline": {
+      "en-us": "PureCloud Webhook Integration for Zendesk"
+    },
+    "briefDescription": {
+      "en-us": "Zendesk event notifications posted to PureCloud group chat rooms"
+    },
+    "fullDescription": {
+      "en-us": "WebHooks are a way to receive valuable information *when it happens*, rather than continually polling for that data and receiving nothing valuable most of the time. This webhook integration with Zendesk allows event notifications to be configured to automatically post a chat message to a PureCloud group chat. Setup within PureCloud is simple! Configuration consists of a series of mappings. Each mapping specifies:\n\n - Filters that define an event\n\n - Chat groups to receive the notifications\n\nOnce you've mapped events to PureCloud chat groups copy the webhook link to add to your Zendesk account and you are done!\n\n**Use Case**\n\n - A customer record update is made that triggers UserVoice to notify the service team assigned via a PureCloud group chat message"
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-zendesk/images/zendesk-medium.svg",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/webhook-zendesk/images/zendesk-medium.svg",
+    "companyName": {
+      "en-us": "Zendesk"
+    },
+    "website": {
+      "en-us": "https://www.zendesk.com/"
+    },
+    "screenshots": [],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "version": "1.0",
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "licensing": {
+      "model": "user or server",
+      "cost": "string",
+      "specialNotice": "Optional, contact your sales rep for instance"
+    },
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "afa4e4d5-0a51-4e26-b6e7-4ee4fb976cd6",
+    "registryId": {
+      "us-east-1": "bridge-verint-wfm-historical-integration",
+      "eu-west-1": "bridge-verint-wfm-historical-integration",
+      "ap-southeast-1": "bridge-verint-wfm-historical-integration",
+      "ap-northeast-1": "bridge-verint-wfm-historical-integration"
+    },
+    "name": {
+      "en-us": "Verint WFM Historical Integration"
+    },
+    "tagline": {
+      "en-us": "Historical data synchronization to Verint"
+    },
+    "briefDescription": {
+      "en-us": "The Verint WFM (Workforce Management) historical integration collects historical statistics about agent and workgroup queues, and sends the information to Verint."
+    },
+    "fullDescription": {
+      "en-us": "The Verint WFM (Workforce Management) historical integration collects historical statistics about agent and workgroup queues, and sends the information to Verint. At scheduled intervals, the integration pulls historical data, which is specified in the connector configuration, from PureCloud. This historical data contains information about agent activities and calls, emails, and chats handled.\n\nThe integration performs calculations on this data. The integration can generate four types of reports using these calculations:\n\n - Agent Productivity Report: This report contains both information about agent activities and calls, emails, and chats handled by agents.\n\n - Call Statistics Report: This report contains information about calls handled based on queues.\n\n - Email Statistics Report: This report contains information about emails handled based on queues.\n\n - Chat Statistics Report:This report contains information about chats handled based on queues.\n\n After generating the reports, the integration sends them to a shared output directory for Verint to access."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-historical/images/verint.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-historical/images/verint.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/about-the-verint-wfm-historical-integration/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-historical/images/verint-historical-networking-1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-historical/images/verint-historical-workflow-1.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  },
+  {
+    "id": "7f9d71bb-e527-4a39-bfc6-1425409c60e1",
+    "registryId": {
+      "us-east-1": "bridge-verint-wfm-rta-integration",
+      "eu-west-1": "bridge-verint-wfm-rta-integration",
+      "ap-southeast-1": "bridge-verint-wfm-rta-integration",
+      "ap-northeast-1": "bridge-verint-wfm-rta-integration"
+    },
+    "name": {
+      "en-us": "Verint WFM Real-Time Integration"
+    },
+    "tagline": {
+      "en-us": "Real-Time adherence data synchronization to Verint"
+    },
+    "briefDescription": {
+      "en-us": "The Verint WFM RTA (Workforce Management Real-Time Adherence) integration monitors PureCloud for agent presence changes and sends the information to Verint."
+    },
+    "fullDescription": {
+      "en-us": "The Verint WFM RTA (Workforce Management Real-Time Adherence) integration monitors PureCloud for agent presence changes and sends the information to Verint.  Verint generates a schedule for your agents to follow. The integration is designed to help Verint track agent compliance to this schedule.\n\n The integration maps PureCloud presences to corresponding Verint status codes and then monitors PureCloud for any agent presence changes. When changes are detected, the integration alerts Verint about the changes. Contact center management can then use this information to measure agent compliance to the schedule."
+    },
+    "platforms": [
+      {
+        "name": "PureCloud"
+      }
+    ],
+    "companyLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-rta/images/verint.png",
+    "appLogo": "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-rta/images/verint.png",
+    "companyName": {
+      "en-us": "PureCloud"
+    },
+    "website": {
+      "en-us": "https://help.mypurecloud.com/articles/about-the-verint-wfm-rta-integration/"
+    },
+    "screenshots": [
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-rta/images/verint-workflow-1.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-rta/images/verint-workflow-2.png",
+      "https://dhqbrvplips7x.cloudfront.net/appFoundryListings/latest/assets/wfm-verint-rta/images/verint-workflow-3.png"
+    ],
+    "videoLinks": [],
+    "languages": [
+      "english"
+    ],
+    "vendorEmail": "info@genesys.com",
+    "termsOfService": "http://www.genesys.com/",
+    "industries": [
+      "universal"
+    ]
+  }
+]
